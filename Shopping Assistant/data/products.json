@@ -1,0 +1,801 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "source": "A",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SKi94cImL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61SKi94cImL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "source": "A",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX425_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX425_.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "source": "A",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71TR2j9S6pL._SX425_.jpg",
+      "images": ["https://m.media-amazon.com/images/I/71TR2j9S6pL._SX425_.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "source": "A",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/411JS6eB7OL._SX300_SY300_QL70_FMwebp_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/411JS6eB7OL._SX300_SY300_QL70_FMwebp_.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "source": "A",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61IiLzzJeWL._SX466_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61IiLzzJeWL._SX466_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "source": "A",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/61eA9PkZ07L._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61eA9PkZ07L._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "source": "A",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71TwTzVcVqL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71TwTzVcVqL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "source": "A",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/414ilIo3tAL._SX300_SY300_QL70_FMwebp_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/414ilIo3tAL._SX300_SY300_QL70_FMwebp_.jpg"
+      ]
+    },
+    
+    {
+      "id": 9,
+      "title": "HP Pavilion 15-DK1056WM",
+      "source": "A",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71vDKqPC-fL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71vDKqPC-fL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "perfume Oil",
+      "source": "A",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Kj9fzAjKL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51Kj9fzAjKL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Brown Perfume",
+      "source": "A",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/616cItNeFAL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/616cItNeFAL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Fog Scent Xpressio Perfume",
+      "source": "A",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/51XWdvh01HL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51XWdvh01HL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Eau De Perfume Spray",
+      "source": "A",
+      "description": "Genuine Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/71IfHHKaUEL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71IfHHKaUEL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Hyaluronic Acid Serum",
+      "source": "A",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "L'Oreal Paris",
+      "category": "skincare",
+      "thumbnail": "https://m.media-amazon.com/images/I/51dyKxcQAaL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51dyKxcQAaL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Oil Free Moisturizer 100ml",
+      "source": "A",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Dermive",
+      "category": "skincare",
+      "thumbnail": "https://m.media-amazon.com/images/I/61xFiujH+sL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61xFiujH+sL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Skin Beauty Serum.",
+      "source": "A",
+      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "ROREC White Rice",
+      "category": "skincare",
+      "thumbnail": "https://m.media-amazon.com/images/I/51wERqBeGLL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51wERqBeGLL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Freckle Treatment Cream- 15gm",
+      "source": "A",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Fair & Clear",
+      "category": "skincare",
+      "thumbnail": "https://m.media-amazon.com/images/I/61pvYIn-+3L._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61pvYIn-+3L._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "- Daal Masoor 500 grams",
+      "source": "A",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Saaf & Khaas",
+      "category": "groceries",
+      "thumbnail": "https://m.media-amazon.com/images/I/611vlauoYUL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/611vlauoYUL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Elbow Macaroni - 400 gm",
+      "source": "A",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "category": "groceries",
+      "thumbnail": "https://m.media-amazon.com/images/I/71kWT5+3T3S._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71kWT5+3T3S._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Orange Essence Food Flavou",
+      "source": "A",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Baking Food Items",
+      "category": "groceries",
+      "thumbnail": "https://m.media-amazon.com/images/I/711+WUSGkoL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/711+WUSGkoL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "cereals muesli fruit nuts",
+      "source": "A",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "fauji",
+      "category": "groceries",
+      "thumbnail": "https://m.media-amazon.com/images/I/618GCX0jsZL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/618GCX0jsZL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Gulab Powder 50 Gram",
+      "source": "A",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Dry Rose",
+      "category": "groceries",
+      "thumbnail": "https://m.media-amazon.com/images/I/71J8i+sAx8L._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71J8i+sAx8L._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Key Holder",
+      "source": "A",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Golden",
+      "category": "home-decoration",
+      "thumbnail": "https://m.media-amazon.com/images/I/71CFDhoJpLL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71CFDhoJpLL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "iPhone 9",
+      "source": "B",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 579,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SKi94cImL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61SKi94cImL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "iPhone X",
+      "source": "B",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 929,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Samsung Universe 9",
+      "source": "B",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1299,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/41uL-SbzqGL._SX300_SY300_QL70_FMwebp_.jpg",
+      "images": ["https://m.media-amazon.com/images/I/41uL-SbzqGL._SX300_SY300_QL70_FMwebp_.jpg"]
+    },
+    {
+      "id": 27,
+      "title": "OPPOF19",
+      "source": "B",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 310,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71uXmoBZpOL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71uXmoBZpOL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Women's Floral Dress",
+      "source": "B",
+      "description": "Elegant and comfortable floral dress for women.",
+      "price": 59.99,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 50,
+      "brand": "FashionStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/815Nw-o5AGL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/815Nw-o5AGL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Men's Plaid Shirt",
+      "source": "B",
+      "description": "Stylish plaid shirt for men's casual wear.",
+      "price": 39.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 40,
+      "brand": "TrendyMan",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/81mFpAQQjeL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81mFpAQQjeL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Women's High Heels",
+      "source": "B",
+      "description": "Classic high heels for women.",
+      "price": 69.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 30,
+      "brand": "FashionHeels",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Vstxy8ofL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Vstxy8ofL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Men's Casual Jeans",
+      "source": "B",
+      "description": "Comfortable and durable jeans for a casual look.",
+      "price": 49.99,
+      "discountPercentage": 0.0,
+      "rating": 4.4,
+      "stock": 60,
+      "brand": "DenimCo",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/61zYTL6iyhL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61zYTL6iyhL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Women's Handbag",
+      "source": "B",
+      "description": "Stylish and spacious handbag for women.",
+      "price": 79.99,
+      "discountPercentage": 15.0,
+      "rating": 4.7,
+      "stock": 25,
+      "brand": "TrendyBags",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/71vV4Q8fzPL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71vV4Q8fzPL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Men's Leather Shoes",
+      "source": "B",
+      "description": "Classic leather shoes for men.",
+      "price": 89.99,
+      "discountPercentage": 8.0,
+      "rating": 4.9,
+      "stock": 20,
+      "brand": "LeatherStyle",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/615x70FrHrL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/615x70FrHrL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "iPhone 11",
+      "source": "B",
+      "description": "Apple's latest mobile device with remarkable features.",
+      "price": 879,
+      "discountPercentage": 12.0,
+      "rating": 4.8,
+      "stock": 48,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SKi94cImL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61SKi94cImL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Samsung Galaxy S21",
+      "source": "B",
+      "description": "Samsung's flagship smartphone with incredible performance.",
+      "price": 999,
+      "discountPercentage": 14.5,
+      "rating": 4.9,
+      "stock": 26,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/81vqHyDCSCL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81vqHyDCSCL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Men's Formal Suit",
+      "source": "B",
+      "description": "Elegant and comfortable formal suit for men.",
+      "price": 199.99,
+      "discountPercentage": 20.0,
+      "rating": 4.7,
+      "stock": 18,
+      "brand": "FormalStyle",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/51W2oxUsZGL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51W2oxUsZGL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Women's Winter Coat",
+      "source": "B",
+      "description": "Stylish and warm winter coat for women.",
+      "price": 149.99,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 15,
+      "brand": "WinterWear",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/5113t6h4erL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/5113t6h4erL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Nike Men's Running Shoes",
+      "source": "B",
+      "description": "Comfortable running shoes for men.",
+      "price": 119.99,
+      "discountPercentage": 8.0,
+      "rating": 4.9,
+      "stock": 32,
+      "brand": "Nike",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71mY7w6giKL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71mY7w6giKL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Women's Summer Dress",
+      "source": "B",
+      "description": "Stylish and comfortable dress for summer.",
+      "price": 69.99,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 28,
+      "brand": "SummerStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/61OSKKQdBbL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61OSKKQdBbL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Adidas Men's Sneakers",
+      "source": "B",
+      "description": "Stylish sneakers for men's casual wear.",
+      "price": 89.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 20,
+      "brand": "Adidas",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71fUo+y1RBL._SX575_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71fUo+y1RBL._SX575_.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Men's Casual Backpack",
+      "source": "B",
+      "description": "Spacious and durable backpack for everyday use.",
+      "price": 59.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 35,
+      "brand": "CasualTrek",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/918t7nycBdL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/918t7nycBdL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Men's Casual Sneakers",
+      "source": "B",
+      "description": "Stylish sneakers suitable for casual wear.",
+      "price": 79.99,
+      "discountPercentage": 8.0,
+      "rating": 4.6,
+      "stock": 40,
+      "brand": "CasualTrend",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/71EEcSoYmDL._SX575_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71EEcSoYmDL._SX575_.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Adidas Ultra Boost Running Shoes",
+      "source": "B",
+      "description": "Premium running shoes designed for maximum performance.",
+      "price": 179.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 30,
+      "brand": "Adidas",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/51M1r9qZrlL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51M1r9qZrlL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Elegant Women's Handbag",
+      "source": "B",
+      "description": "Stylish and spacious handbag for everyday use.",
+      "price": 99.99,
+      "discountPercentage": 7.5,
+      "rating": 4.9,
+      "stock": 20,
+      "brand": "ChicStyle",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/61mrVTihyhL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61mrVTihyhL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Men's Classic Leather Belt",
+      "source": "B",
+      "description": "Premium quality leather belt for formal and casual wear.",
+      "price": 39.99,
+      "discountPercentage": 0.0,
+      "rating": 4.5,
+      "stock": 55,
+      "brand": "ClassicLeather",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/51lf2pmI5hL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51lf2pmI5hL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Men's Formal Dress Shoes",
+      "source": "B",
+      "description": "Classic formal shoes for a sophisticated look.",
+      "price": 89.99,
+      "discountPercentage": 5.0,
+      "rating": 4.7,
+      "stock": 30,
+      "brand": "FormalStyle",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/61K0qvp2zwL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61K0qvp2zwL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Stylish Women's Sunglasses",
+      "source": "B",
+      "description": "Trendy sunglasses for a fashionable look.",
+      "price": 29.99,
+      "discountPercentage": 15.0,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "FashionShades",
+      "category": "women_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SmsCyfZOL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61SmsCyfZOL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "Men's Stylish Shirt",
+      "source": "B",
+      "description": "Trendy and comfortable shirt for a modern look.",
+      "price": 49.99,
+      "discountPercentage": 0.0,
+      "rating": 4.4,
+      "stock": 60,
+      "brand": "ModernMan",
+      "category": "men_fashion",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f-77xkwaL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81f-77xkwaL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Nike Air Max Running Shoes",
+      "source": "B",
+      "description": "High-performance running shoes with excellent cushioning.",
+      "price": 159.99,
+      "discountPercentage": 12.5,
+      "rating": 4.9,
+      "stock": 35,
+      "brand": "Nike",
+      "category": "shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/51q7mLE2QwL._AC_UL480_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51q7mLE2QwL._AC_UL480_FMwebp_QL65_.jpg"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Huawei P30",
+      "source": "B",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 549,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61ItIxpzRPL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ItIxpzRPL._AC_UY327_FMwebp_QL65_.jpg"
+      ]
+    }
+  ]
+}
